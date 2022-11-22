@@ -4,3 +4,7 @@ Adding a statement to be forked.
 
 
 Branch1 is created and switched in local repositry.
+
+
+
+Making changes in branch1 on github to create push conflict by local repo.
